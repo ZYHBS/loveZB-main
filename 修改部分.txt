@@ -1,0 +1,7 @@
+<div id="elapseClock" style="display:none"></div>
+                        <a href='#' id="accept">click me if accept me</a>
+
+
+
+
+Love u forever and ever.
